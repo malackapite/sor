@@ -1,0 +1,14 @@
+html{
+    background-image: url(design/teglafal.jpg);
+    color:beige;
+    font-size: 10pt;
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Verdana, sans-serif;
+
+}
+#keret{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
